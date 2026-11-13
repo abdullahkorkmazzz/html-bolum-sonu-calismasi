@@ -1,0 +1,59 @@
+/**************************** colors ******************************/
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.darkgreen {
+    color: darkgreen;
+}
+
+.blue {
+    color: blue;
+}
+
+.darkblue {
+    color: darkblue;
+}
+
+.orange {
+    color: orange;
+}
+
+.orangered {
+    color: orangered;
+}
+
+.deeppink {
+    color: deeppink;
+}
+
+.darkmagenta {
+    color: darkmagenta;
+}
+
+.cyan {
+    color: cyan;
+}
+
+.deepskyblue {
+    color: deepskyblue;
+}
+
+.crimson {
+    color: crimson;
+}
+
+.darkgray {
+    color: darkgray;
+}
+
+
+/**************************** font-family ******************************/
+
+.sans-serif {
+    font-family: sans-serif;
+}
